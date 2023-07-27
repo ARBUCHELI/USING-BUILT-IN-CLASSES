@@ -1,0 +1,5 @@
+APIs, libraries, and packages are very useful when programming.
+
+They can perform complex logic for you and they can shorten your code.
+
+They make programming easier for you since you don't have to re-make code which already exists!
